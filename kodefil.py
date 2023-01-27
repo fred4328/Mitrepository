@@ -8,3 +8,4 @@ apper til min fil
 
 nu kører det hele meget bedre 
 tilføjer nogen nye lækkererier til min fil 
+denne linje vil jeg gerne integrere i master
