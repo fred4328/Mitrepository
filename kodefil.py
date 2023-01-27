@@ -1,2 +1,3 @@
-her findes en ny kodefil
-jajaja tilføjer nye ting til min fil
+her findes  en ny kodefil
+appender til min fil
+
